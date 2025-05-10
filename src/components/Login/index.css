@@ -1,0 +1,70 @@
+.login-container {
+  background-image: url('https://res.cloudinary.com/dh1kujuf0/image/upload/v1746531012/Group_138_aeqq9y.png');
+  background-size: auto;
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.login-card-container {
+  height: 433px;
+  width: 456px;
+  border-radius: 12px;
+  position: absolute;
+  top: 296px;
+  left: 492px;
+  background-color: rgba(24, 24, 24, 0.96);
+}
+
+.login-layout {
+  width: 1440;
+  height: 1024;
+  top: 1982px;
+  left: -6576px;
+  margin: 20px;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  color: white;
+  margin-bottom: 15px;
+}
+
+.input-field {
+  background-color: white;
+  height: 40px;
+  border-width: 0px;
+  border-radius: 5px;
+  margin-bottom: 12px;
+  font-size: 20px;
+}
+
+.login-button {
+  height: 40px;
+  background-color: #5bcf66;
+  border-width: 0px;
+  border-radius: 7px;
+  margin-top: 12px;
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+}
